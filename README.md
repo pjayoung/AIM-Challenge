@@ -81,3 +81,6 @@
 ## 7. 증빙자료
 - 코드 및 데이터 : 깃허브 참고
 - PPT : [구글 슬라이드 자료](https://docs.google.com/presentation/d/1MJ8HSAJ4GOyx-jy3035qhbwsTHnRBNjQm8rXLN2LseI/edit?usp=sharing)
+
+## 8. 참고문헌
+[Ordinal_Regression_with_Multiple_Output_CNN_for_Age_Estimation](https://github.com/xjtulyc/Ordinal_Regression_with_Multiple_Output_CNN_for_Age_Estimation/tree/main/dataset)
