@@ -79,7 +79,12 @@
 
 
 ## 7. 증빙자료
-- 코드 및 데이터 : 깃허브 참고
+- 코드
+  1. 0. face_live_API.py (웹캠)
+  2. 0. test_API.py (이미지)
+- 데이터
+  1. Total : UTKFace + AAF
+  2. 12575A57.jpg (AAF 중 예시 이미지)
 - PPT : [구글 슬라이드 자료](https://docs.google.com/presentation/d/1MJ8HSAJ4GOyx-jy3035qhbwsTHnRBNjQm8rXLN2LseI/edit?usp=sharing)
 
 ## 8. 참고문헌
